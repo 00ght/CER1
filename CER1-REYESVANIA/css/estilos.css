@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+
+#texto-imagina{
+    text-align: justify;
+}
+
+#cards{
+    margin-bottom: 30px;
+}
+
+footer{
+    background: #F25252;
+    color: #fff;
+    text-align: center;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+#footer-creador{
+    height: 130px;
+}
+
+.redes{
+    padding-right: 10px;
+}
+
+#separador{
+    background: #FAE2E2;
+    height: 5px;
+}
+
+.redes:hover{
+    color: #F6C270;
+}
